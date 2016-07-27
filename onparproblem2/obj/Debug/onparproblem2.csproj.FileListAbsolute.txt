@@ -1,0 +1,6 @@
+c:\users\wecancodeit\documents\visual studio 2015\Projects\onparproblem2\onparproblem2\bin\Debug\onparproblem2.exe.config
+c:\users\wecancodeit\documents\visual studio 2015\Projects\onparproblem2\onparproblem2\bin\Debug\onparproblem2.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\onparproblem2\onparproblem2\bin\Debug\onparproblem2.pdb
+c:\users\wecancodeit\documents\visual studio 2015\Projects\onparproblem2\onparproblem2\obj\Debug\onparproblem2.csprojResolveAssemblyReference.cache
+c:\users\wecancodeit\documents\visual studio 2015\Projects\onparproblem2\onparproblem2\obj\Debug\onparproblem2.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\onparproblem2\onparproblem2\obj\Debug\onparproblem2.pdb
